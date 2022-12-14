@@ -1,3 +1,12 @@
+/*
+ * How to use
+ * 
+ *	Please use it in the same way as UNTIY standard Debug.
+ *	
+ *	Example : DebugSystem . Method name (message)
+ *	
+*/
+
 using UnityEngine;
 public static class DebugSystem
 {
